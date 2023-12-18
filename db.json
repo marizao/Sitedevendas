@@ -1,0 +1,8 @@
+{
+    "movies": [
+      { "id": 1, "title": "Filme 1", "director": "Diretor 1" },
+      { "id": 2, "title": "Filme 2", "director": "Diretor 2" },
+      { "id": 3, "title": "Filme 3", "director": "Diretor 3" }
+    ]
+  }
+  
